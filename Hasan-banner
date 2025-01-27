@@ -1,5 +1,6 @@
+# Define the function to display the banner
 def CryptoAirdropHindi():
-    print("""
+    print("""  
     ***************************************
     *                                     *
     *      CryptoAirdropHindi Info        *
@@ -18,5 +19,5 @@ def CryptoAirdropHindi():
     ***************************************
     """)
 
-# Calling the custom function
-CryptoAirdropHindi()
+# Call the function just by its name
+CryptoAirdropHindi()  # This will call the function and print the banner
