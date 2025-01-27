@@ -26,3 +26,9 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```bash
 source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/check_space_memory.sh)
 ```
+
+## If you're looking to automate the installation of `screen` via a script, 
+you can create a simple bash script. Here's a basic script to install `screen` on a Debian-based system (like Ubuntu):
+```
+source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install-screen.sh)
+```
