@@ -1,4 +1,3 @@
-# Define the function to display the banner
 def CryptoAirdropHindi():
     print("""  
     ***************************************
@@ -11,6 +10,7 @@ def CryptoAirdropHindi():
     print("📱 Telegram: https://t.me/Crypto_airdropHM")
     print("🎥 YouTube: https://www.youtube.com/@CryptoAirdropHindi6")
     print("💻 GitHub Repo: https://github.com/CryptoAirdropHindi/")
+
     print("""
     ***************************************
     *                                     *
@@ -19,5 +19,5 @@ def CryptoAirdropHindi():
     ***************************************
     """)
 
-# Call the function just by its name
-CryptoAirdropHindi()  # This will call the function and print the banner
+# Call the function to display the banner
+CryptoAirdropHindi()
