@@ -17,6 +17,16 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This command fetches and executes a script that will provide a snapshot of your system's vCPU cores, RAM, and SSD usage.
 
+<h2 align=center>2. Install Git (Version Control System)</h2>
+Git is a fundamental tool for managing code and collaborating with others. 
+It is essential to install Git early in the setup to manage repositories and version control.
+
+<h2 align=center>Install Git</h2>
+
+```
+source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/git.sh)
+```
+
 <h2 align=center>2. Docker Installation (Essential Tool)</h2>
 Docker is crucial for containerizing applications,
 so it is recommended to install it early in the process.
