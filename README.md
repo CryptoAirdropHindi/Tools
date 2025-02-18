@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------------------------------
 
 
-# 1. System Information Tools (Initial Setup)
+<h2 align=center>1. System Information Tools (Initial Setup)</h2>
 Before installing additional tools, it's useful to gather information about
 your system's resources, such as vCPU cores, RAM, and SSD usage.
 
@@ -17,7 +17,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This command fetches and executes a script that will provide a snapshot of your system's vCPU cores, RAM, and SSD usage.
 
-# 2. Docker Installation (Essential Tool)
+<h2 align=center>2. Docker Installation (Essential Tool)</h2>
 Docker is crucial for containerizing applications,
 so it is recommended to install it early in the process.
 
@@ -28,7 +28,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This script will automatically install Docker on your system.
 
-# 3. Install Node.js (Development Tool)
+<h2 align=center>3. Install Node.js (Development Tool)</h2>
 Node.js is essential if you plan to run server-side
 JavaScript or set up backend services.
 
@@ -39,7 +39,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This script installs Node.js to allow you to execute JavaScript code server-side.
 
-# 4. Install Python (Development Tool)
+<h2 align=center>4. Install Python (Development Tool)</h2>
 Python is widely used for scripting and automation.
 Install it next if your system needs it for running Python scripts.
 
@@ -50,7 +50,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This will install Python on your system for various automation or development tasks.
 
-# 5. CPU Information Check (System Monitoring)
+<h2 align=center>5. CPU Information Check (System Monitoring)</h2>
 Once essential tools are set up, it's helpful to verify CPU usage and performance.
 
 <h2 align=center>First Method: Basic CPU Information</h2>
@@ -67,7 +67,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This script provides a more detailed overview of CPU usage and system performance.
 
-# 6. Check Available Space and Memory (System Monitoring)
+<h2 align=center>6. Check Available Space and Memory (System Monitoring)</h2>
 Now that the tools are installed, monitoring disk space and memory
 usage is important to ensure your system isn’t running low on resources.
 
@@ -78,7 +78,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This script will check the available disk space and memory usage on your system.
 
-# 7. Install Screen (Session Management)
+<h2 align=center>7. Install Screen (Session Management)</h2>
 Screen is useful for session management, especially for running long tasks in the terminal.
 Install it when you're ready to manage multiple terminal sessions.
 
