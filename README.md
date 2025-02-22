@@ -99,6 +99,12 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 This script installs screen, which lets you run multiple shell sessions within one terminal window.
 
+
+This script will automatically update the package list and upgrade your installed packages. It will also display messages indicating the progress.
+```
+source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/update_upgrade.sh)
+```
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Important Notes
