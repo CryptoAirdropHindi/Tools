@@ -46,6 +46,10 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/update_upgrade.sh)
 ```
+* To remove all files on your Linux VPS (Virtual Private Server),
+```
+https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/reset-server.sh
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
