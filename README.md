@@ -48,7 +48,7 @@ source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/re
 ```
 * To remove all files on your Linux VPS (Virtual Private Server),
 ```
-https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/reset-server.sh
+source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/reset-server.sh)
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
